@@ -1,8 +1,7 @@
 # aula sobre dart + flutter
+# CONTADOR DE PESSOAS EM UM ESTABELICIMENTO
 
-isso é um projeto novo ...
+isso é um projeto novo para aprender flutter.
 
 preencho assim que findar o app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
