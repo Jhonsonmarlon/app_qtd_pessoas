@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="aula1_udemy"
+        android:label="1ºAPP-COUNTER"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
